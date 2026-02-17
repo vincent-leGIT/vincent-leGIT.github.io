@@ -1,5 +1,5 @@
 ---
 layout: archive-years
 title: Timeline
-permalink: /timeline/
+permalink: /years/
 ---
